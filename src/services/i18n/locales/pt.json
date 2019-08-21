@@ -1,0 +1,12 @@
+{
+  "app":{
+      "title" : "Estou em português!"
+  },
+  "language":{
+    "language": "Idioma",
+    "portuguese": "Português",
+    "english": "Inglês",
+    "spanish": "Espanhol",
+    "choose_language": "Escolha o idioma"
+  }
+}
